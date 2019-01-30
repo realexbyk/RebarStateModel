@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>208.JPG</filename>
+	<path>C:\Users\SanReiZan\Documents\darkflow\darkflow-master\RebarModel\imgs\208.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rebar_untied</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1995</xmin>
+			<ymin>1159</ymin>
+			<xmax>2745</xmax>
+			<ymax>2109</ymax>
+		</bndbox>
+	</object>
+</annotation>
