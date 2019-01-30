@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>75.JPG</filename>
+	<path>C:\Users\SanReiZan\Documents\darkflow\darkflow-master\RebarModel\imgs\75.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2016</width>
+		<height>2016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rebar_tied</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1102</xmin>
+			<ymin>1000</ymin>
+			<xmax>1392</xmax>
+			<ymax>1253</ymax>
+		</bndbox>
+	</object>
+</annotation>
