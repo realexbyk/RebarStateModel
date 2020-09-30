@@ -2,7 +2,6 @@ import cv2
 from darkflow.net.build import TFNet
 import numpy as np
 import time
-from pyimagesearch.centroidtracker import CentroidTracker
 import argparse
 import imutils
 from imutils.video import VideoStream
@@ -17,8 +16,7 @@ options = {
 }
 tfnet = TFNet(options)
 
-ct = CentroidTracker
-(H, W) = (None, None)
+
 
 unt_color = (26, 0, 250)
 td_color = (255, 0, 20)
